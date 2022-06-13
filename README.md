@@ -1,3 +1,3 @@
 # DEMO
 
-some diescription just starting
+some description just starting
