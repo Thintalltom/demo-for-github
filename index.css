@@ -3,3 +3,13 @@ h1{
     font-family: 'Times New Roman';
     font-weight: bolder;
 }
+h2{
+    color:brown;
+}
+section{
+    background-color: aliceblue;
+    border-color: 0px, 1px, 3px, 0px solid lightgray;
+}
+ul li{
+    color: royalblue;
+}
